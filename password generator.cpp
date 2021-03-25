@@ -25,11 +25,11 @@ int main()
             printf("%c", password[i]);
         }
         else if (randomizer == 2)
-        {
+         {
             password[i] = symbols[rand() % 26];
             randomizer = rand() % 4;
             printf("%c", password[i]);
-        }
+         }
         else if (randomizer == 3)
         {
             password[i] = letterr[rand() % 26];
