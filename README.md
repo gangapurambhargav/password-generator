@@ -13,4 +13,7 @@ so make it offline.
 <li>
 Hope you find a secure password.
   </li>
+### License
+
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/gangapurambhargav/" property="cc:attributionName" rel="cc:attributionURL">Gangapuram Bhargav</a> is licensed under a <a rel="license" href="https://github.com/gangapurambhargav/password-generator/blob/main/LICENSE">MIT License</a>.
 
