@@ -12,11 +12,11 @@ int main()
     char letter [] = "abcdefghijklmnoqprstuvwyzx";
     char letterr [] = "ABCDEFGHIJKLMNOQPRSTUYWVZX";
     char symbols [] = "!@#$%^&*(){}[]:<>?,./";
-    printf("\nHow long password:");
+    printf("\nHow long is your password:");
     scanf("%d", &n);
     char password[n];
     randomizer = rand() % 4;
-    for (i=0;i<n;i++)
+    for(i=0;i<n;i++)
     {
         if(randomizer == 1)
         {
